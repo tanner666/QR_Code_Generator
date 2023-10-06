@@ -1,4 +1,4 @@
 # IS373_QRCode
 QRcode generation with docker
 
-![GitHub Logo](images/qrcode.png)
+![GitHub Logo](images/default.png)
